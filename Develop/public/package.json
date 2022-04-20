@@ -1,0 +1,22 @@
+{
+  "name": "note-taker-3000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDMurr/note-taker-3000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDMurr/note-taker-3000/issues"
+  },
+  "homepage": "https://github.com/CDMurr/note-taker-3000#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
