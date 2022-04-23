@@ -37,10 +37,10 @@ express
 JavaScript
 
 
-github link 
+live url link 
 https://note3000taker.herokuapp.com/notes
 
-heroku link 
+github link 
 https://github.com/CDMurr/note-taker-3000
 
 ![alt text](/Screen%20Shot%202022-04-23%20at%201.01.22%20PM.png)
